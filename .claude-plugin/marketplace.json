@@ -1,0 +1,28 @@
+{
+  "name": "agents-plugin-marketplace",
+  "owner": {
+    "name": "Kunl",
+    "email": "720kun@gmail.com"
+  },
+  "metadata": {
+    "description": "Internal Claude Code plugins and skills used across the agents project.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "oxlint",
+      "description": "Lint JavaScript/TypeScript/Vue projects using oxlint with shared workflows.",
+      "version": "0.1.0",
+      "source": "./plugins/oxlint",
+      "category": "quality",
+      "tags": ["lint", "typescript", "vue"],
+      "keywords": ["lint", "oxlint"],
+      "homepage": "https://github.com/kunl/agents",
+      "repository": "https://github.com/kunl/agents",
+      "author": {
+        "name": "Kunl",
+        "email": "720kun@gmail.com"
+      }
+    }
+  ]
+}

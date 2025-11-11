@@ -1,0 +1,14 @@
+{
+  "name": "oxlint",
+  "version": "0.1.0",
+  "description": "Run oxlint to check and fix JavaScript/TypeScript/Vue projects.",
+  "author": {
+    "name": "Kunl",
+    "email": "720kun@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/kunl/agents",
+  "repository": "https://github.com/kunl/agents",
+  "keywords": ["lint", "javascript", "typescript", "vue"],
+  "category": "quality"
+}
