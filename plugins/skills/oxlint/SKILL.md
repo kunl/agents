@@ -11,15 +11,15 @@ allowed-tools: Bash
 ## 快速使用
 
 **检查代码**：
-- "检查代码" - 检查 git 变更的文件（如果有 git）
-- "检查 src 目录" - 检查指定目录
-- "检查 main.js" - 检查指定文件
-- "检查 packages/common 和 packages/marketing" - 检查多个目录
+- `"检查代码"` - 检查 git 变更的文件（如果有 git）
+- `"检查 src 目录"` - 检查指定目录
+- `"检查 main.js"` - 检查指定文件
+- `"检查 packages/common 和 packages/marketing"` - 检查多个目录
 
 **修复代码**：
-- "修复 lint 错误" - 自动修复 git 变更的文件
-- "修复 src 目录的问题" - 修复指定目录
-- "修复 main.js" - 修复指定文件
+- `"修复 lint 错误"` - 自动修复 git 变更的文件
+- `"修复 src 目录的问题"` - 修复指定目录
+- `"修复 main.js"` - 修复指定文件
 
 **支持任意路径**：可以指定项目中的任何文件或目录！
 
