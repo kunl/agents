@@ -13,7 +13,7 @@
       "name": "oxlint",
       "description": "Lint JavaScript/TypeScript/Vue projects using oxlint with shared workflows.",
       "version": "0.1.0",
-      "source": "./plugins/oxlint",
+      "source": "./plugins/skills/oxlint",
       "category": "quality",
       "tags": ["lint", "typescript", "vue"],
       "keywords": ["lint", "oxlint"],
